@@ -1,0 +1,16 @@
+com/example/Notebookshop/Role.class
+com/example/Notebookshop/WebSecurityConfig.class
+com/example/Notebookshop/NotebookshopApplication.class
+com/example/Notebookshop/UserRepository.class
+com/example/Notebookshop/Oprendszer.class
+com/example/Notebookshop/CustomUserDetailsService.class
+com/example/Notebookshop/OprendszerRepo.class
+com/example/Notebookshop/Processzor.class
+com/example/Notebookshop/ProcesszorRepo.class
+com/example/Notebookshop/User.class
+com/example/Notebookshop/SecurityRoleApplication.class
+com/example/Notebookshop/HomeController.class
+com/example/Notebookshop/GepRepo.class
+com/example/Notebookshop/Uzenetek.class
+com/example/Notebookshop/UzenetRepository.class
+com/example/Notebookshop/Gep.class
